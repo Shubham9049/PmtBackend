@@ -3,7 +3,7 @@ const app=express()
 const cors=require("cors")
 const {userRoute}=require("./routes/user.routes")
 const {tasks}=require("./routes/tasks.routes")
-const port=5500
+const port=5000
 
 
 
